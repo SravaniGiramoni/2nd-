@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+printf("hello world ");
+printf("sravani you have any mistake ");
+printf("god with you . DOnt worry");
+}
